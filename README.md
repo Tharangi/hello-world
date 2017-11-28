@@ -1,3 +1,1 @@
-# hello-world
-GCI task testing 
-Testing commits to new branch
+"Hello Sugar Labs. Dinuka testing."
